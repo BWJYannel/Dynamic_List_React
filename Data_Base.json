@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "first_name": "YANOGO",
+      "last_name": "LANDRY",
+      "age": "19",
+      "sexe": "Masculin",
+      "id": "df9a"
+    },
+    {
+      "first_name": "ZAMPALIGRE ",
+      "last_name": "Zidahoo Rodrigue",
+      "age": "20",
+      "sexe": "Masculin",
+      "id": "164e"
+    },
+    {
+      "id": "e77f",
+      "first_name": "SARE",
+      "last_name": "Jean-Eude",
+      "age": "22",
+      "sexe": "Masculin"
+    },
+    {
+      "id": "6d50",
+      "first_name": "BELEMSIGRI",
+      "last_name": "Yannel",
+      "age": "20",
+      "sexe": "Masculin"
+    }
+  ]
+}
